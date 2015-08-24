@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+Body{
+	font-family:"Segoe UI", sans-serif;	
+}
+/*=====mainArea=====*/
+#Wrap #wrapInner #mainArea .WrapperGnavBlockA01{
+	width:1205px;
+	height:70px;
+	margin:auto;
+	background-color:#e3e3e3;	
+}
+#Wrap #wrapInner #mainArea .WrapperGnavBlockA01 .shapeBlockA01{
+	width:1205px;
+	height:5px;
+	margin:auto;
+	margin-top:-20px;
+	background-color:#ff0202;	
+}
+#Wrap #wrapInner #mainArea .WrapperContentBlockA01 .BrandProductBlockA01{
+	width:1205px;
+	height:70px;
+}
+#Wrap #wrapInner #mainArea .BrandProductBlockA01 .BrandProductTxtBlockA01{
+	margin-left:18px;
+	font-family:"Segoe UI",sans-serif;
+	font-weight:bold;
+	font-size:20px;
+}
+#Wrap #wrapInner #mainArea .WrapperGnavBlockA01 .GnavTxtBlockA01{
+	height:30px;
+	width:1200px;
+	margin-left:18px;
+	margin-bottom:11px;	
+}
+#Wrap #wrapInner #mainArea .WrapperGnavBlockA01 .GnavTxtBlockA01 .gnavlinkBlockA01{
+	color:#000000;
+	text-decoration:none;	
+}
+#Wrap #wrapInner #mainArea .WrapperGnavBlockA01 .GnavTxtBlockA01 .gnavlinkBlockA01:hover{
+	color:#686868;
+	text-decoration:none;	
+}
+/*=====ContentArea=====*/
+#Wrap #wrapInner #mainArea .WrapperContentBlockA01{
+	width:1200px;
+	height:645px;
+	margin:auto;
+	margin-top:25px;
+	margin-bottom:30px;
+}
+#Wrap #wrapInner #mainArea .WrapperContentBlockA01{
+	border-color:#6e6e6e;
+	border-width:thin;
+	border-style:solid;
+}
+/*========================================================================================*/
+#wrapFormBlockA01{
+	width: 710px;
+	height: 635px;
+	margin: 0px auto;
+	background-color:#dbdbdb;
+	}
+.wrapinnerFormBlockA01{
+	width: 570px;
+	height: 70px;
+	}
+.wrapinnerFormBlockA01 p{
+	font-size: 24px;
+	color: #F63939;
+	font-weight: 100;
+	padding-top: 20px;
+	margin: 0px 0px 0px 70px;
+	}
+.wrapinnerFormBlockA02{
+	width: 570px;
+	height: 635px;
+	margin: 0px auto;
+	}
+.td3 input{
+	width:362px;
+	}
